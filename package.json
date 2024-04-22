@@ -1,5 +1,5 @@
 {
-  "name": "devcamp-js-footer-orange",
+  "name": "devcamp-js-footer-green",
   "version": "0.1.0",
   "description": "This module allows for a dinamic footer",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Goa-Zen/devcamp-js-footer-orange.git"
+    "url": "git+https://github.com/Goa-Zen/devcamp-js-footer-green.git"
   },
   "keywords": [
     "footer"
@@ -16,9 +16,9 @@
   "author": "goa-zen <https://github.com/Goa-Zen>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Goa-Zen/devcamp-js-footer-orange/issues"
+    "url": "https://github.com/Goa-Zen/devcamp-js-footer-green/issues"
   },
-  "homepage": "https://github.com/Goa-Zen/devcamp-js-footer-orange#readme",
+  "homepage": "https://github.com/Goa-Zen/devcamp-js-footer-green#readme",
   "dependencies": {
     "moment": "^2.30.1"
   }

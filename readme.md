@@ -9,7 +9,7 @@ npm install --save devcamp-js-footer-blue
 Add to a JavaScript Project with the following code:
 
 ```javascript
-import { footer } form 'devcamp-js-footer-orange';
+import { footer } form 'devcamp-js-footer-green';
 
 footer('Some Name');
 ```
